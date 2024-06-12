@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿global using Super.TaskBooking;
+global using Subsidiary1.TaskBooking;
 
-namespace AbstractClass
-{
-    internal class Usings
-    {
-    }
-}
+global using Media.TaskMedia;
+global using Music.TaskMedia;
+global using Video.TaskMedia;
+global using Podcasts.TaskMedia;
